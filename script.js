@@ -3,12 +3,12 @@ const translations = {
     navBrand: 'All Kids Read',
     navHome: 'Home',
     navS1: 'The Matching Bracelets',
-    navS2: 'Its Pronounced "Aleh-HAHN-dra"',
+    navS2: 'It\'s Pronounced "Aleh-HAHN-dra"',
     navS3: 'The Science Fair',
     navS4: 'Too Many Sounds',
     footerHome: 'Home',
     footerS1: 'The Matching Bracelets',
-    footerS2: 'Its Pronounced "Aleh-HAHN-dra"',
+    footerS2: 'It\'s Pronounced "Aleh-HAHN-dra"',
     footerS3: 'The Science Fair',
     footerS4: 'Too Many Sounds',
     translateButton: 'Translate to Spanish',
@@ -48,7 +48,7 @@ Maya squeezed back immediately.<br>
 The two girls continued down the sidewalk together, laughing quietly as their matching bracelets swung beside them. <br>`,
       },
       s2: {
-        storyTitle: 'Its Pronounced "Aleh-HAHN-dra"',
+        storyTitle: 'It\'s Pronounced "Aleh-HAHN-dra"',
         storyText: `On the first day of school, Ms. Peterson stood at the front of the classroom holding a clipboard while students chatted nervously at their desks.<br>
 “Okay everyone,” she said cheerfully, “I’m going to take attendance.”<br>
 One by one, she called names.<br>
